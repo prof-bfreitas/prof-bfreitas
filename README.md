@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 - Sou professor de Ensino médio, formado em química e matemática, mestre em físico-química 👨‍🔬
 - Eu trabalhei com programação no mestrado, com a linguagem Python 💻
